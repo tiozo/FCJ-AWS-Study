@@ -1,0 +1,13 @@
+- A [[Recommender System]] must and have to know about the user through some form of data being collected (either directly or indirectly).
+- Data collection methods:
+	- Directly: user's interaction with the application
+	- Indirectly: user's information on cookies, others site coming from (not suggested).
+- What need to be done with data after collected ?
+	- Must be categorized into ratings/tags as reward and adding more knowledge into the knowledge base of the application if interacted.
+	- The reliability of an application maybe affected by the design of the application.
+- Kinds of data:
+	- Implicit Data: Gathered from user actions that are not intended to communicates preferences. Which provided valuable insight. towards to user.
+		- Ex: clicks, purchases, times spend on items
+	- Explicit Data: Gathered from direct feedback from through ratings, reviews, and votes. 
+		- Ex: Shopee, Grab's rating on some service/food/product that user has purchases/reviewed.
+	- Implicit has more tendency towards "hallucinated results" than Explicit.
