@@ -23,4 +23,6 @@ Deploy resources by using virtualization and resource management tools.
 
 > On-Premises Deployment is also known as private cloud deployment.
 
-For example you might have applicatoins run 
+### Hybrid Deployment
+
+Combine On-Premise and Cloud.
