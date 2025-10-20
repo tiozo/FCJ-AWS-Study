@@ -33,4 +33,4 @@ Examples:
 - Large file systems
 - Data warehouses
 - Online Transaction Systems.
-Designed to deliver a
+Designed to deliver many inputs as fast as possible.
