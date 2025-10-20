@@ -18,4 +18,7 @@ Good for:
 ### Memory Optimized Instances
 Deliver large dataset workloads fast. 
 Memory is a temporary storage area.
-Loads from storage, holds the data, and processes
+Loads from storage, holds the data, and processes it before the computer can run it.
+The processing allows for preloading process and gives the CPU direct access to the computer program.
+The Memory Optimized instances are best for huge amounts of data need to be preloaded before running the app.
+
