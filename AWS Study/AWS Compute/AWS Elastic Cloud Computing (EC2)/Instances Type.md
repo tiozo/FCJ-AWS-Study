@@ -27,4 +27,10 @@ This type uses hardware accelerators.
 Boost data processing
 Best for graphics application and streaming.
 
-### Storage Optimized 
+### Storage Optimized Instances.
+This type is best when you have large datasets on local storage.
+Examples: 
+- Large file systems
+- Data warehouses
+- Online Transaction Systems.
+Designed to deliver a
