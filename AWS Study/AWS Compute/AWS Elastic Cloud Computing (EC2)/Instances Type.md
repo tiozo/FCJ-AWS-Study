@@ -22,3 +22,9 @@ Loads from storage, holds the data, and processes it before the computer can run
 The processing allows for preloading process and gives the CPU direct access to the computer program.
 The Memory Optimized instances are best for huge amounts of data need to be preloaded before running the app.
 
+### Accelerated Computing Instances
+This type uses hardware accelerators.
+Boost data processing
+Best for graphics application and streaming.
+
+### Storage Optimized 
