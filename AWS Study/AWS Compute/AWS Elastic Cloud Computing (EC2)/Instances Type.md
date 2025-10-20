@@ -6,3 +6,12 @@ It fit many purposes.
 - Application servers.
 - Gaming servers.
 - Backend servers for companies
+- Small and medium databases
+
+### Compute Optimized Instances
+Best for computing task
+Good for:
+- Application servers.
+- Gaming servers.
+- Web Applications.
+- 
