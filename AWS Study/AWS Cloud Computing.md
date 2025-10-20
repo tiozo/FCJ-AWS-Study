@@ -8,4 +8,8 @@ There are three different kinds of deployment models:
 - On-premises
 - Cloud-based
 - Hybrid
+Defined by ways of accessing compute services over the internet, locally or in a combination.
 
+### Cloud-based Deployment
+
+Everything o
