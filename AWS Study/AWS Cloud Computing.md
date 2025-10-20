@@ -17,4 +17,10 @@ Allows to build new application or move existing one to cloud.
 The different levels of services ranging from low to high.
 The level of service has different requirements on your management, architecting and infra.
 
-### On-Premises DeploymentDe
+### On-Premises Deployment
+
+Deploy resources by using virtualization and resource management tools.
+
+> On-Premises Deployment is also known as private cloud deployment.
+
+For example you might have applicatoins run 
