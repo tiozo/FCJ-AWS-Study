@@ -14,4 +14,8 @@ Good for:
 - Application servers.
 - Gaming servers.
 - Web Applications.
-- 
+
+### Memory Optimized Instances
+Deliver large dataset workloads fast. 
+Memory is a temporary storage area.
+Loads from storage, holds the data, and processes
