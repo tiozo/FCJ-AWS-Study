@@ -15,3 +15,6 @@ Defined by ways of accessing compute services over the internet, locally or in a
 Everything runs in cloud.
 Allows to build new application or move existing one to cloud.
 The different levels of services ranging from low to high.
+The level of service has different requirements on your management, architecting and infra.
+
+### On-Premises DeploymentDe
