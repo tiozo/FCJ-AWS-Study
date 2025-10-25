@@ -15,3 +15,7 @@ There are 2 approaches:
 - Predictive scaling: schedules the number of instances based on a predicted demand.
 - Dynamic & Predictive scaling can be combined to scale faster and more fitting to some day that's are irregular.
 
+![[Pasted image 20251025143531.png]]
+*Image created by Amazon Web Services*
+
+The picture illustrates that demand can change during a w
