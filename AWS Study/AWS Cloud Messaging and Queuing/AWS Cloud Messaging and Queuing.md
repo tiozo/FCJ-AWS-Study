@@ -6,4 +6,8 @@ The communication can transmit data, fulfill requests, and keep the application 
 ### Monolithic Application
 An architecture with tightly coupled components can be called a monolithic application.
 Components can be databases, servers, interfaces, and much more.
-A monolithic application
+A monolithic application can be vulnerable if one of the components fails.
+In the worst case this can cause the whole service to go down.
+
+> [!Info]
+> Instead of m
