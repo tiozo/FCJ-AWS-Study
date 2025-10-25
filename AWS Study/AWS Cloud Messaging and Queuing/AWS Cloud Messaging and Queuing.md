@@ -10,4 +10,5 @@ A monolithic application can be vulnerable if one of the components fails.
 In the worst case this can cause the whole service to go down.
 
 > [!Info]
-> Instead of m
+> Instead of monolithic, your application can be designed with an approach called microservices.
+> Microservices can help to keep your service available if one c
