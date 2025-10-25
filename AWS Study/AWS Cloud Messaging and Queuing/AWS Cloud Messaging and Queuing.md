@@ -16,3 +16,6 @@ In the worst case this can cause the whole service to go down.
 ### Microservices 
 Microservices can help to maintain the service if one component fails.
 The services can be maintained because they communicate with each other and the components are not tightly coupled.
+AWS has 2 services that can make this integration:
+- [[AWS Simple Notification Service]] (AWS SNS)
+- [[AWS Simple Queue Service]] (AWS SQS)
