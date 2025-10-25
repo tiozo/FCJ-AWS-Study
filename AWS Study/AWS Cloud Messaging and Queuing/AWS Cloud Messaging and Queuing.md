@@ -4,4 +4,6 @@ The components communicate with each other.
 The communication can transmit data, fulfill requests, and keep the application running.
 
 ### Monolithic Application
-An architecture with tightly couples
+An architecture with tightly coupled components can be called a monolithic application.
+Components can be databases, servers, interfaces, and much more.
+A monolithic application
