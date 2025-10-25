@@ -7,4 +7,9 @@ The single point of contact means that the traffic hits the [[Load Balancer]] fi
 The balancer accepts requests and directs them to the stances.
 
 It ensures that one resource won't get overloaded, and that the traffic is get out.
-[[AWS EC2]] and [[Elastic Load Balancing]] are two diffe
+[[AWS EC2]] and [[Elastic Load Balancing]] are two different services that work well together.
+
+> [!Info]
+> ELB is built to support traffic without increasing hourly cost.
+> ELB scales automatically.
+> 
