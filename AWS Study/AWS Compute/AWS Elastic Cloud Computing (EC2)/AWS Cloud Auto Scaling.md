@@ -6,4 +6,4 @@ We should not add a tier below baseline to for cost saving as it makes your serv
 
 You can set a group of instances.
 - minimum capacity of instances that will always be running. The rest will operate when necessary.
-- you can 
+- you can set the desired number of [[AWS EC2]] instances in the scaling group. (The default desired capacity is =)
