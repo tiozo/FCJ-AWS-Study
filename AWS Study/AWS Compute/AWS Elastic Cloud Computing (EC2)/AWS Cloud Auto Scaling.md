@@ -1,2 +1,2 @@
-### [[AWS EC2 Scaling]]
-
+### [[AWS EC2 Auto Scaling]]
+EC2
