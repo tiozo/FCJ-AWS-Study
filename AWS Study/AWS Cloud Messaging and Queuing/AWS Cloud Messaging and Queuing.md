@@ -19,3 +19,6 @@ The services can be maintained because they communicate with each other and the 
 AWS has 2 services that can make this integration:
 - [[AWS Simple Notification Service]] (AWS SNS)
 - [[AWS Simple Queue Service]] (AWS SQS)
+>[!Note]
+>The difference between the Monolithic and Microservices approach is **tight coupled** vs. **loosely coupled**.
+
