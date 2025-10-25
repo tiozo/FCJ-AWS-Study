@@ -12,3 +12,6 @@ AWS EC2 Auto scaling allows you to add or remove EC2 instances automatically.
 It automates the capacity to the demand.
 There are 2 approaches:
 - Dynamic scaling: Responds to changing demand.
+- Predictive scaling: schedules the number of instances based on a predicted demand.
+- Dynamic & Predictive scaling can be combined to scale faster and more fitting to some day that's are irregular.
+
