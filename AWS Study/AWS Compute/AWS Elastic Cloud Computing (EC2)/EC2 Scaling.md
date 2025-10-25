@@ -18,4 +18,4 @@ There are 2 approaches:
 ![[Pasted image 20251025143531.png]]
 *Image created by Amazon Web Services*
 
-The picture illustrates that demand can change during a w
+The picture illustrates that demand can change during a week based. (Not counting on holidays)
