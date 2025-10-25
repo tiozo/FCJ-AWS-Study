@@ -11,4 +11,8 @@ In the worst case this can cause the whole service to go down.
 
 > [!Info]
 > Instead of monolithic, your application can be designed with an approach called microservices.
-> Microservices can help to keep your service available if one c
+> Microservices can help to keep your service available if one component fails.
+
+### Microservices 
+Microservices can help to maintain the service if one component fails.
+The services can be maintained because they communicate with each other and the components are not tightly coupled.
