@@ -14,3 +14,6 @@ It ensures that one resource won't get overloaded, and that the traffic is get o
 > ELB scales automatically.
 
 ### Load Allocation
+The service allocates incoming traffic between the available resources
+The principle is the same with both high and low demand periods.
+It will allocate between what is the availability at any time.
