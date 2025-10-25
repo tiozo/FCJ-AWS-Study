@@ -7,4 +7,5 @@ Designing a scalable architecture allow you to pay for the resources that you ne
 ### [[AWS EC2]] Auto Scaling
 Servers can get more request than they can handle.
 Too many request = timeout and outage on that instance/node.
-AWS 
+Too least request = wasted money but you might want this to happens to ha.
+AWS EC2 Auto scaling allows you to add or remove EC2 instances automatically.
