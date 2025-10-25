@@ -1,0 +1,1 @@
+Traffic can be directed with Elastic Load Balancing
