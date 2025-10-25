@@ -12,4 +12,5 @@ It ensures that one resource won't get overloaded, and that the traffic is get o
 > [!Info]
 > ELB is built to support traffic without increasing hourly cost.
 > ELB scales automatically.
-> 
+
+### Load Allocation
