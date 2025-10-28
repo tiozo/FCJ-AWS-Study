@@ -29,6 +29,7 @@ The data is saved in fast hardware layer so that it does not have to use the "sl
 > 
 > Cache has a property can be stated: "if it lost, it only have a problem called "cold-start" and the data of the application will remains the same."
 
-> [!Warning|Notes]
-> AWS will utile  
+> [!Additional Info]
+> The content is delivered faster because the data is no longer requested from the primary location. 
+> It is delivered from the Edge Location. The location nearest to the user.
 
