@@ -20,4 +20,9 @@ AWS RDS database engines offer data encryption while data is stored, sent, and r
 
 ### What is [[Amazon Aurora]] ?
 
-ideal for large organizations and enterprises
+ideal for large organizations and enterprises.
+High availability.
+Excellent for managing large amounts of data.
+It is five times faster than a MySQL database.
+It is three times faster than a PostGreSQL database.
+
