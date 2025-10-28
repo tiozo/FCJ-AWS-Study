@@ -9,4 +9,7 @@ Simultaneously, have Data Center(s) close enough to have low latency.
 
 This picture illustrates how AZ works:
 Three regions (orange circles): N. California, Oregon, GovCloud(US-West).
-The regions have az (blue )
+The regions have az (blue circles) displayed as a grid around them.
+The picture zooms in on the N. California region.
+N. California has an availability zone of three groupings of Data Centers: US-West-1A, US-West-1B, and US-West-1C.
+![[Pasted image 20251028093245.png]]
