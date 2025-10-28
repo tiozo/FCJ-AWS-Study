@@ -44,4 +44,9 @@ Shorten for [[ACLs]]
 ACL is a firewall that controls traffic, both inbound and outbound.
 It controls the traffic at the subnet level.
 The ACL checks and controls the packets.
-If the packet is on the approve
+If the packet is on the approved list, it will pass through.
+However, if they not on the list, their access will be denied.
+
+### Stateless Packet Filtering
+
+The ACLs do Stateless Packet filtering 
