@@ -1,5 +1,20 @@
 ### Cloud Relational Database - [[AWS Relational Database Service|Amazon RDS]]
 
 Is a service that automates database tasks.
-It enables running relational databases i
+It enables running relational databases in AWS Cloud.
+
+It support: 
+- **AWS Aurora**
+- PostgreSQL
+- MySQL
+- MariaDB
+- Oracle Database
+- Microsoft SQL Server
+
+```
+AWS RDS database engines offer data encryption while data is stored, sent, and received.
+```
+
+>AWS RDS helps you complete administrative tasks faster.
+>Decreasing the time needed for administrative tasks gives you more time to develop application features.
 
