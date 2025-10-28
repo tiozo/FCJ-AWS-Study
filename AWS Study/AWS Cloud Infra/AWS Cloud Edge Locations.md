@@ -16,4 +16,8 @@ Resulting in fast delivery of your content.
 
 Caching helps the software to deliver content faster and cheaper.
 Cache is fast storage that copies and stores parts of data.
-The data is stored in hardware that can deliver content fast, for exampl
+The data is stored in hardware that can deliver content fast, for example, RAM. 
+The main job of cache is deliver content fast (look up to notes).
+The data is saved in fast hardware layer so that it does not have to use the "slow" storage hardware.
+
+> [!]
