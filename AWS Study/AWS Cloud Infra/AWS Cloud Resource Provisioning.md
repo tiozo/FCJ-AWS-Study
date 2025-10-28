@@ -15,5 +15,9 @@ The mobile view is best used for monitoring and accessing billing info.
 
 AWS Command Line Interface is also called "AWS CLI".
 CLI saves you time when making API Requests.
-It Allows you to control 
+It Allows you to control multiple AWS Services with one tool.
+CLI allows you to automate actions on services with scripts.
+
+> [!Warning]
+> Do not provide full privileges to  
 ### AWS Software Development Kits
