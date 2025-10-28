@@ -8,7 +8,8 @@ There are three main ways to interact with AWS Services.
 The AWS Management Console is a web-based interface.
 It is used to access and manage AWS Services.
 ```yellow
-
+AWS Management Console has a mobile application.
+The mobile view is best used for monitoring and accessing billing info.
 ```
 #### AWS Command Line Interface
 
