@@ -25,3 +25,12 @@ It is a component that allows the encrypted traffic enter the VPC.
 The Virtual Private Gateway allows you to make a Virtual Private Network (VPN) between the VPC and private network.
 It only allows traffic from approved networks.
 Many businesses use VPNs to ensure that their traffic and data are secure.
+
+### [[AWS Direct Connect]]
+
+AWS Direct Connect lets you make a dedicated private connection between the Data Center and a VPC.
+A dedicated connection is to have the link for yourself.
+The link is not shared with others.
+Only you and your data can travel through the connection.
+![[Pasted image 20251028104159.png]]
+
