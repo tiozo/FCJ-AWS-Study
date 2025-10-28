@@ -42,4 +42,6 @@ With a few clicks, you can join, create, and manage blockchain networks.
 
 ### [[AWS ElastiCache]]
 
-adds catching layer 
+adds catching layers on top of a database.
+Catching layer stores a part of data.
+Accelerates application performance.
