@@ -18,3 +18,13 @@ You can manage all of your domain names from Route 53.
 ```
 
 ### Use [[AWS Route 53]] and [[AWS CloudFront]]
+![[Pasted image 20251028111815.png]]
+The picture explained:
+The company has 3 [[AWS EC2|EC2]] Instances in an Auto Scaling group.
+The group is attached to an [[AWS |Application Load Balancer]].
+1. User requests data from the website application.
+2. Route 53 uses DNS resolution to identify the IP address.
+3. The data is sent back to the user.
+4. The user request is sent to the nearest Edge Location through CloudFront.
+5. CloudFront connects to the Application Load Balancer.
+6. The Load Balancer sends the packet to the EC2 instance.
