@@ -61,4 +61,5 @@ Is a fully managed, flexible and secure service.
 
 Is an interactive query service that makes it easy to analyze data directly in S3 using standard SQL.
 Makes it easy to interactively run data analytics using Apache Spark without plan, configure, or manage resources.
-
+Athena SQL and Apache Spark on Amazon are serverless.
+Athena scales automatically runs queries in parallel.
