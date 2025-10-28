@@ -21,7 +21,6 @@ It has extra layer of protection.
 The Virtual Private Gateway encrypts the internet traffic keeping it protected.
 It is a component that allows the encrypted traffic enter the VPC.
 ![[Pasted image 20251028104035.png]]
-
 The Virtual Private Gateway allows you to make a Virtual Private Network (VPN) between the VPC and private network.
 It only allows traffic from approved networks.
 Many businesses use VPNs to ensure that their traffic and data are secure.
