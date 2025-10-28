@@ -24,4 +24,7 @@ Ideal for content management systems, user profiling, cataloging.
 
 Is a graph database service.
 Can be used to create graph from your data for various purposes.
-It is great for finan
+It is great for financial records, supply chain systems, and other centralized digital records.
+![[Pasted image 20251028135317.png]]
+
+### [[AWS QLDB]] (AWS Quantum Ledger Database)
