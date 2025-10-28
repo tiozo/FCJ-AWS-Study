@@ -22,3 +22,8 @@ CLI allows you to automate actions on services with scripts.
 > Do not provide full privileges to AWS CLI
 ### AWS Software Development Kits
 
+Software Development Kits are called "SDKs".
+"SDKs" is another option to access and manage AWS services.
+It eases the use of AWS Service through an API.
+The API is fitted to the platform or programming language that you use.
+SDKs can be used on existing application 
