@@ -40,10 +40,13 @@ It stores data in at least 3 AZs.
 Lower storage price but higher data retrieval price.
 It is higher priced than other classes.
 
-### [[S3 Inteligent-Tiering]]
+### [[S3 Intelligent-Tiering]]
 
 Requires automation and monitoring.
 Ideal for data with unknown or frequently changing access.
 It moves the object to the S3 Standard-IA class if it is not accessed for 30 days.
 It moves object to S3 Standard if accessed in S3 Standard-IA or S3 One Zone-IA classes.
 
+### [[S3 Glacier]]
+
+Ideal for archiving data.
