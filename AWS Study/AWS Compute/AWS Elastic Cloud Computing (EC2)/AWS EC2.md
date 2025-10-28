@@ -27,7 +27,7 @@ EC2 is secure.
 
 ---
 
-### What is DELETED (For Contrast)
+#### What is DELETED (For Contrast)
 
 It's just as important to know what is permanently lost:
 - **The Instance Itself:** The compute, CPU, and RAM configuration are gone forever.
