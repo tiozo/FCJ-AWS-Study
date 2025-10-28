@@ -22,4 +22,4 @@ The data is saved in fast hardware layer so that it does not have to use the "sl
 
 > [!notes]
 > Caching or saving to will cost the same I/O problems, and caching isn't magically works as "save on ram = fast". 
-> Caching only aids the path on
+> Caching only aids the path of going straight to applications DB again and again which may lead to data corrupt or race condition when multiple instances makes the data have inconsistent issue (Not always but since it is hard to mang
