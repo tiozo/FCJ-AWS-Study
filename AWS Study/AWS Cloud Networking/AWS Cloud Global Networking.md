@@ -16,3 +16,5 @@ Route 53 has a feature to manage DNS records.
 You can register new and transfer domains with Route 53.
 You can manage all of your domain names from Route 53.
 ```
+
+### Use [[AWS Route 53]] and [[AWS CloudFront]]
