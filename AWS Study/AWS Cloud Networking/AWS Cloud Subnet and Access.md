@@ -27,3 +27,4 @@ Before entering a Subnet it checks for permissions.
 Checking permissions such as:
 1. Who sent the Packet?
 2. How will the Packet communicate with the resources in the Subnet
+
