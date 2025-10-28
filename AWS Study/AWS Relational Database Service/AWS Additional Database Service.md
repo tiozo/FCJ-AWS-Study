@@ -32,3 +32,7 @@ Is a ledger database service.
 Provides historical data of all your application changes.
 Great for financial records, supply chain systems, and other centralized digital records.
 ![[Pasted image 20251028135507.png]]
+
+### [[AWS Managed Blockchain]]
+
+AWS Managed Blockchain is a service that utilizes open-source frameworks to create or mange blo
