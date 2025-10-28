@@ -13,4 +13,11 @@ Maximal Object Size is 5TB.
 ### Define Object-Level Storage
 Object-Level contains objects.
 Each object is made of: 
-- Date - any type of fi
+- Date - any type of files
+- Metadata - information about what the data is.
+- Key - Unique identifier
+![[Pasted image 20251028131435.png]]
+
+### [[AWS S3]] Storage Classes
+There are many AWS S3 storage classes.
+They differ i
