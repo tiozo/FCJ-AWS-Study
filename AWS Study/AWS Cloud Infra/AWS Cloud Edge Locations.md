@@ -27,5 +27,7 @@ The data is saved in fast hardware layer so that it does not have to use the "sl
 > 
 > Caching is designed to **prevent** applications from hitting the database repeatedly. However, it introduces a new problem: **cache inconsistency**. This is similar to the data integrity issues (like race conditions) that can happen in the database, but as you said, it 'changes the place' of the problem. Now, instead of just a database problem, you also have a cache synchronization problem, which can be less severe but is still a critical issue."
 > 
-> Cache has a property  if it lost, it only have a problem called "cold-start" and the data of the application will remains the same.
+> Cache has a property can be stated: "if it lost, it only have a problem called "cold-start" and the data of the application will remains the same."
+
+
 
