@@ -39,3 +39,7 @@ AWS Managed Blockchain is a service that utilizes open-source frameworks to crea
 With a few clicks, you can join, create, and manage blockchain networks.
 **Ethereum** and **Hyberledger Fabric** are popular open-source blockchain technologies.
 ![[Pasted image 20251028135827.png]]
+
+### [[AWS ElastiCache]]
+
+adds catching layer 
