@@ -47,3 +47,7 @@ Catching layer stores a part of data.
 Accelerates application performance.
 Improves the read times of databases requests.
 Redis and MemCached are supported with AWS ElastiCache service.
+![[Pasted image 20251028140250.png]]
+
+### [[AWS DynamoDB Accelerator]] (DAX)
+
