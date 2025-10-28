@@ -18,3 +18,6 @@ AWS RDS database engines offer data encryption while data is stored, sent, and r
 >AWS RDS helps you complete administrative tasks faster.
 >Decreasing the time needed for administrative tasks gives you more time to develop application features.
 
+### What is [[Amazon Aurora]] ?
+
+ideal for large organizations and enterprises
