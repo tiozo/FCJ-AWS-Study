@@ -35,4 +35,6 @@ Great for financial records, supply chain systems, and other centralized digital
 
 ### [[AWS Managed Blockchain]]
 
-AWS Managed Blockchain is a service that utilizes open-source frameworks to create or mange blo
+AWS Managed Blockchain is a service that utilizes open-source frameworks to create or mange blockchain networks.
+With a few clicks, you can join, create, and manage blockchain networks.
+**Ethereum** and **Hyberledger Fabric** are popular open-source blockchain te
