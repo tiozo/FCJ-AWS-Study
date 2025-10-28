@@ -67,3 +67,9 @@ This feature is specific for an AWS EC2 instance.
 Security Groups do stateful packet filtering.
 They remember the actions that they have done with Packets in the past.
 ![[Pasted image 20251028110338.png]]
+
+### Configuration
+
+ACLs and Security groups can be configured.
+Configuration means adding custom rules for the traffic.
+![[Pasted image 20251028110439.png]]
