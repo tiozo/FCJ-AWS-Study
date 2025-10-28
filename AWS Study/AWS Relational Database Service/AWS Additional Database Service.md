@@ -45,3 +45,5 @@ With a few clicks, you can join, create, and manage blockchain networks.
 adds catching layers on top of a database.
 Catching layer stores a part of data.
 Accelerates application performance.
+Improves the read times of databases requests.
+Redis and MemCached are supported with AWS ElastiCache service.
