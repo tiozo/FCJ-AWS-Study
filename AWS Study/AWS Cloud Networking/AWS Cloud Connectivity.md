@@ -6,7 +6,12 @@ In addition, it allows to include sections of the AWS cloud that you want in the
 Resources can be organized in subnets.
 A subnet is a section in the VPC that contain specific resources.
 
-### Internet Gateway
+### [[Internet Gateway]]
 
 Public traffic can be allowed to your VPC.
 The traffic is allowed by an Interface Gateway.
+![[Pasted image 20251028103809.png]]An Internet Gateway is a door between the VPC and the internet.
+The traffic enters the VPC through the Internet Gateway.
+Without the Internet Gateway, you cannot access the resources in the VPC.
+
+### [[Virtual Private Gateway]]
