@@ -54,4 +54,7 @@ Redis and MemCached are supported with AWS ElastiCache service.
 It is an in-memory cache service for AWS DynamoDB.
 It improves read times for your non-relational data.
 It improves response times from ms to mcros.
-Is a fully manage
+Is a fully managed, flexible and secure service.
+![[Pasted image 20251028140601.png]]
+
+### 
