@@ -26,4 +26,5 @@ Software Development Kits are called "SDKs".
 "SDKs" is another option to access and manage AWS services.
 It eases the use of AWS Service through an API.
 The API is fitted to the platform or programming language that you use.
-SDKs can be used on existing application 
+SDKs can be used on existing application or new ones built on AWS.
+
