@@ -49,4 +49,7 @@ However, if they not on the list, their access will be denied.
 
 ### Stateless Packet Filtering
 
-The ACLs do Stateless Packet filtering 
+The ACLs do Stateless Packet filtering.
+They have no memory and will forget the request once checked.
+Their job is to check Packets that go in and out.
+It uses the set rules to approve or deny access.
