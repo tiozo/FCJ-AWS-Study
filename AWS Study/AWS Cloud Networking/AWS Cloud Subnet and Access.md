@@ -53,3 +53,10 @@ The ACLs do Stateless Packet filtering.
 They have no memory and will forget the request once checked.
 Their job is to check Packets that go in and out.
 It uses the set rules to approve or deny access.
+![[Pasted image 20251028110044.png]]
+
+### [[Security Groups]]
+
+A security group is a firewall that controls inbound and outbound traffic.
+This feature is specific for an AWS EC2 instance.
+>It
