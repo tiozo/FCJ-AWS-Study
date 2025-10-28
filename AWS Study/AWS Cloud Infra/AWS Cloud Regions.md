@@ -31,3 +31,5 @@ You can select a region to access specific services.
 
 ### Pricing 
 There are many factors in how the prices are set.
+For example, the prices might vary from region to region.
+You will learn more about pricing in a later chapter.
