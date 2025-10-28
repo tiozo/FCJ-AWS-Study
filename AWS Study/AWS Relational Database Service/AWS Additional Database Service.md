@@ -51,3 +51,7 @@ Redis and MemCached are supported with AWS ElastiCache service.
 
 ### [[AWS DynamoDB Accelerator]] (DAX)
 
+It is an in-memory cache service for AWS DynamoDB.
+It improves read times for your non-relational data.
+It improves response times from ms to mcros.
+Is a fully manage
