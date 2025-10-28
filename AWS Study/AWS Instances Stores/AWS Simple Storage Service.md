@@ -43,4 +43,7 @@ It is higher priced than other classes.
 ### [[S3 Inteligent-Tiering]]
 
 Requires automation and monitoring.
-Ideal for d
+Ideal for data with unknown or frequently changing access.
+It moves the object to the S3 Standard-IA class if it is not accessed for 30 days.
+It moves object to S3 Standard if accessed in S3 Standard-IA or S3 One Zone-IA classes.
+
