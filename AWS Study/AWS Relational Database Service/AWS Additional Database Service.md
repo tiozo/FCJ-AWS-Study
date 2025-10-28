@@ -57,4 +57,6 @@ It improves response times from ms to mcros.
 Is a fully managed, flexible and secure service.
 ![[Pasted image 20251028140601.png]]
 
-### 
+### [[AWS Athena]]
+
+Is an interactive query service that makes it easy to analyze data directly in S3.
