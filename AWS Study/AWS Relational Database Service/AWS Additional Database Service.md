@@ -28,3 +28,7 @@ It is great for financial records, supply chain systems, and other centralized d
 ![[Pasted image 20251028135317.png]]
 
 ### [[AWS QLDB]] (AWS Quantum Ledger Database)
+
+Is a ledger database service.
+Provides historical data of all your application changes.
+Great for financial records, supply chain systems, and other centralized digital records.
