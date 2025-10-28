@@ -23,9 +23,12 @@ Public and Private Subnets can communicate with each other through secure channe
 Requested data are sent as a **Packet**.
 A Packet is a package of data sent over a network or the internet.
 It enters the VPC through an Internet Gateway. (Public Internet Traffic)
-
 Before entering a Subnet it checks for permissions.
 Checking permissions such as:
 1. Who sent the Packet?
 2. How will the Packet communicate with the resources in the Subnet
+
+> [!Notes]
+> There are other way to access VPC, mentioned a few in [[AWS Cloud Connectivity]]
+> 
 
