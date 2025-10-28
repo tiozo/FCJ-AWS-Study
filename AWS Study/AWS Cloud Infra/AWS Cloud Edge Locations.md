@@ -33,3 +33,7 @@ The data is saved in fast hardware layer so that it does not have to use the "sl
 > The content is delivered faster because the data is no longer requested from the primary location. 
 > It is delivered from the Edge Location. The location nearest to the user.
 
+### How Cache Works
+
+The cache saves subsets of data, making it available in the "cache-memory"
+Once someone requested the da
