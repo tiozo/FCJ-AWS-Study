@@ -23,6 +23,6 @@ The data is saved in fast hardware layer so that it does not have to use the "sl
 > [!notes]
 > Caching exists precisely _because_ cache I/O (RAM/network) is dramatically cheaper and faster than database I/O (disk/query processing), and caching isn't magically works as "save on ram = fast". 
 > Caching isn't infinitely scale, you must solve the problem of Cache Invalidation and Cache Eviction. (remove some cache or remove all)
-> Caching only aids the path of going straight to applications DB again and again which may lead to data corrupt or race condition when multiple instances makes the data have inconsistent issue in the original DB (Not always). This also happens in Cache but it will be less servere 
+> Caching only aids the path of going straight to applications DB again and again which may lead to data corrupt or race condition when multiple instances makes the data have inconsistent issue in the original DB (Not always). This also happens in Cache but it will be less severe but your system utilize the cache, so this is still a problems 
 > We use cache only because, if it lost, it only have a problem called "cold-start" and the data of the application will remains the same.
 
