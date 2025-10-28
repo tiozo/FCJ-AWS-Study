@@ -5,4 +5,5 @@ It's a management system built for scale and high performances.
 ### AWS ECS and Docker
 
 ECS support Docker.
-Docker helps build, test, and depl
+Docker helps build, test, and deploy applications.
+
