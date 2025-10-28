@@ -64,4 +64,6 @@ This feature is specific for an AWS EC2 instance.
 
 ### Stateful Packet Filtering
 
-Security Groups do stateful
+Security Groups do stateful packet filtering.
+They remember the actions that they have done with Packets in the past.
+![[Pasted image 20251028110338.png]]
