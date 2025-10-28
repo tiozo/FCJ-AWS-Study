@@ -10,7 +10,7 @@ CloudFront is used to store cached copies of your contents.
 Resulting in fast delivery of your content.
 
 > [!tips]
-> Hosting a static website on S3 with CloudFront to reduce the cost of accessing the web, since a static website rarely change & is usually accessed -> Caching is a good way to reduce HTTP/HTTPS Get/Post to the S3 bucket. (The cost is much lower than let the HTTP/HTTPS directly to)
+> Hosting a static website on S3 with CloudFront to reduce the cost of accessing the web, since a static website rarely change & is usually accessed -> Caching is a good way to reduce HTTP/HTTPS Get/Post to the S3 bucket. (The cost is much lower than let the HTTP/HTTPS directly to S3)
 
 ### What is Cache ? 
 
