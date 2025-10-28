@@ -28,4 +28,9 @@ How frequent data is retrieved and cost price.
 ### S3 Standard
 
 Ideal for data that is accessed often.
-Provides high vai
+Provides high availability for stored objects.
+It stores data in at least three az.
+It is the most expensive class.
+
+S3 Standard-Infrequent Access - [[S3 Standard-IA]]
+
