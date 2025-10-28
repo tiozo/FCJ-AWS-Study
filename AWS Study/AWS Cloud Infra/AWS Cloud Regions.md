@@ -12,4 +12,7 @@ Those reasons cloud be:
 - Service availability
 - Pricing
 
-### Governmn
+### Government regulations and Data Governance
+
+Some countries do not allow sensitive data to be processed and stored abroad.
+Each company might require that al
