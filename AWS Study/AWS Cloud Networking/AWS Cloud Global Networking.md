@@ -28,3 +28,4 @@ The group is attached to an [[AWS Application Load Balancer|Application Load Bal
 4. The user request is sent to the nearest Edge Location through CloudFront.
 5. CloudFront connects to the Application Load Balancer.
 6. The Load Balancer sends the packet to the EC2 instance.
+
