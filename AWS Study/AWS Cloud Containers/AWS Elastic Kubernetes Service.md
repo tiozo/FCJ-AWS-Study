@@ -14,4 +14,8 @@ AWS continuously keeps the AWS EKS service updated to the lasted Kubernetes feat
 ### How AWS EKS works ?
 
 EKS is used to run and scale Kubernetes applications in the cloud and on-premises.
-Deploy applications in 
+Deploy applications in different ways:
+- Cloud Deploy.
+- Deploy on infra.
+- Deploy with tools.
+
