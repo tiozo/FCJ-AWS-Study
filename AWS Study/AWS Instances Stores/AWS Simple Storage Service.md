@@ -50,3 +50,11 @@ It moves object to S3 Standard if accessed in S3 Standard-IA or S3 One Zone-IA c
 ### [[S3 Glacier]]
 
 Ideal for archiving data.
+It can retrieve object within a few minutes.
+S3 Glacier is a cheaper and slower class.
+
+### [[S3 Glacier Deep Archive]]
+
+Lowest cost.
+best for archives.
+Retrieve objects within 12 
