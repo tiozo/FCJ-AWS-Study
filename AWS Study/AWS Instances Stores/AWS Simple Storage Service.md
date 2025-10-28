@@ -57,4 +57,4 @@ S3 Glacier is a cheaper and slower class.
 
 Lowest cost.
 best for archives.
-Retrieve objects within 12 
+Retrieve objects within 12 hours.
