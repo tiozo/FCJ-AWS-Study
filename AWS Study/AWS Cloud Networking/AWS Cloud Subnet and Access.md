@@ -40,4 +40,8 @@ This is a very common and important one. Imagine your application in the VPC nee
 
 ### Network Access Control Lists
 
-Shortern for ACLs
+Shorten for [[ACLs]]
+ACL is a firewall that controls traffic, both inbound and outbound.
+It controls the traffic at the subnet level.
+The ACL checks and controls the packets.
+If the packet is on the approve
