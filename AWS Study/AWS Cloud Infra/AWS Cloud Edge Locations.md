@@ -5,7 +5,7 @@ It is the site that is nearest your user.
 
 ### Fast Delivery
 
-AWS Edge Locations uses a service called CloudFront.
+AWS Edge Locations uses a service called [[AWS CloudFront|CloudFront]].
 CloudFront is used to store cached copies of your contents.
 Resulting in fast delivery of your content.
 
