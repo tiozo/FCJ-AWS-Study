@@ -19,5 +19,6 @@ It Allows you to control multiple AWS Services with one tool.
 CLI allows you to automate actions on services with scripts.
 
 > [!Warning]
-> Do not provide full privileges to  
+> Do not provide full privileges to AWS CLI
 ### AWS Software Development Kits
+
