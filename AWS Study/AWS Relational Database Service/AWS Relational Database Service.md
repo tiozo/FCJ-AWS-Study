@@ -24,5 +24,7 @@ ideal for large organizations and enterprises.
 High availability.
 Excellent for managing large amounts of data.
 It is five times faster than a MySQL database.
-It is three times faster than a PostGreSQL database.
+It is three times faster than a PostgreSQL database.
 
+>Amazon Aurora creates six copies of data across three Availability Zones and a data backup on Amazon S3.
+>It ensures the data is available at all times.
