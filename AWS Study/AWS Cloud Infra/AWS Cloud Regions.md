@@ -7,4 +7,9 @@ AWS has Data Centers all over the world.
 
 There are different reasons to choose a specific region
 Those reasons cloud be: 
-- Data 
+- Data reasons cloud be: 
+- Customer proximity
+- Service availability
+- Pricing
+
+### Governmn
