@@ -29,5 +29,6 @@ The data is saved in fast hardware layer so that it does not have to use the "sl
 > 
 > Cache has a property can be stated: "if it lost, it only have a problem called "cold-start" and the data of the application will remains the same."
 
-
+> [!Warning|Notes]
+> AWS will utile  
 
