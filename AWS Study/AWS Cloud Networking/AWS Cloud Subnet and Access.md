@@ -58,7 +58,7 @@ It uses the set rules to approve or deny access.
 ### [[Security Groups]]
 
 A security group is a firewall that controls inbound and outbound traffic.
-This feature is specific for an AWS EC2 instance.
+This feature is specific for an [[AWS EC2]] instance.
 >It denies all inbound and outbound by default.
 >User have to add new rules to change this config.
 
