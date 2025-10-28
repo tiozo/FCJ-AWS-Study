@@ -38,3 +38,6 @@ This is a very common and important one. Imagine your application in the VPC nee
 - **Without an endpoint:** The packet would have to go _out_ your VPC (through a NAT Gateway, which uses the Internet Gateway) to the _public_ S3 endpoint, and then back.
 - **With an endpoint:** You use **VPC Endpoints (powered by AWS PrivateLink)**. This creates a private, secure entry point _directly_ to an AWS service (like S3, DynamoDB, or others) from _within_ your VPC. All traffic stays on the private AWS backbone and never goes out to the public internet.
 
+### Network Access Control Lists
+
+Shortern for ACLs
