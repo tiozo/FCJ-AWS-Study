@@ -15,5 +15,9 @@ Instance Stores are good for temporary files, and data that can be easily recrea
 ```
 
 Examples:
+AWS EC2 instance with an attached instance store is running.
 ![[Pasted image 20251028113529.png]]
+AWS EC2 instance is stopped or terminated.
 ![[Pasted image 20251028113545.png]]
+All data on the attached instance store are deleted.
+![[Pasted image 20251028113555.png]]
