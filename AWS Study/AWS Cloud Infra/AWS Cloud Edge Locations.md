@@ -20,4 +20,6 @@ The data is stored in hardware that can deliver content fast, for example, RAM.
 The main job of cache is deliver content fast (look up to notes).
 The data is saved in fast hardware layer so that it does not have to use the "slow" storage hardware.
 
-> [!]
+> [!notes]
+> Caching or saving to will cost the same I/O problems, and caching isn't magically works as "save on ram = fast". 
+> Caching only aids the path on
