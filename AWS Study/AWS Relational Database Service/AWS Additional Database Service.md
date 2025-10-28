@@ -59,4 +59,6 @@ Is a fully managed, flexible and secure service.
 
 ### [[AWS Athena]]
 
-Is an interactive query service that makes it easy to analyze data directly in S3.
+Is an interactive query service that makes it easy to analyze data directly in S3 using standard SQL.
+Makes it easy to interactively run data analytics using Apache Spark without plan, configure, or manage resources.
+
