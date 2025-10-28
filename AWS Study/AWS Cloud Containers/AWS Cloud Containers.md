@@ -11,4 +11,4 @@ The container will remains consistent regardless of deployment.
 
 ### Container and Scale
 
-It is important for scale when using containers.
+It is important for scale when using containers. (Since it is copy-able, and can clone to multiple other object)
