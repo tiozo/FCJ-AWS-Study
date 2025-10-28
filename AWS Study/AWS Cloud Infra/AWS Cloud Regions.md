@@ -26,3 +26,4 @@ Selecting a region near your customers can help to make the services faster.
 All AWS Data Centers do not support all services and features.
 AWS makes new services all the time.
 Making services available requires AWS to build Infra in data centers.
+As a result, the services might not available at 
