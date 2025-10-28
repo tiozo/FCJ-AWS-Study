@@ -15,3 +15,8 @@ The traffic enters the VPC through the Internet Gateway.
 Without the Internet Gateway, you cannot access the resources in the VPC.
 
 ### [[Virtual Private Gateway]]
+
+A Virtual Private Gateway is used to access private resources in the VPC.
+It has extra layer of protection.
+The Virtual Private Gateway encrypts the internet traffic keeping it protected.
+It is a component that allows
