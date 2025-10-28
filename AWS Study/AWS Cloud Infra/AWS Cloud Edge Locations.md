@@ -21,7 +21,7 @@ The main job of cache is deliver content fast (look up to notes).
 The data is saved in fast hardware layer so that it does not have to use the "slow" storage hardware.
 
 > [!notes]
-> Caching or saving to will cost the same I/O problems, and caching isn't magically works as "save on ram = fast". 
+> Caching exists precisely _because_ cache I/O (RAM/network) is dramatically cheaper and faster than database I/O (disk/query processing), and caching isn't magically works as "save on ram = fast". 
 > Caching isn't infinitely scale, you must solve the problem of Cache Invalidation and Cache Eviction. (remove some cache or remove all)
 > Caching only aids the path of going straight to applications DB again and again which may lead to data corrupt or race condition when multiple instances makes the data have inconsistent issue (Not always).
 > We use cache only because, if it lost, it only have a problem called "cold-start" and the data of the application will remains the same.
