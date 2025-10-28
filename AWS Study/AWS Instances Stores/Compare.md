@@ -1,4 +1,4 @@
-[[AWS EBS]] vs [[AWS S3]]
+[[AWS Elastic Block Storage|AWS EBS]] vs [[AWS Simple Storage Service|AWS S3]]
 
 | AWS EBS                                                       | AWS S3                                                                       |
 | ------------------------------------------------------------- | ---------------------------------------------------------------------------- |
