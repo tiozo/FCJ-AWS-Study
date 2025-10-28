@@ -22,7 +22,8 @@ Public and Private Subnets can communicate with each other through secure channe
 
 Requested data are sent as a **Packet**.
 A Packet is a package of data sent over a network or the internet.
-It enters the VPC through an Internet Gateway.
+It enters the VPC through an Internet Gateway. (Public Internet Traffic)
+
 Before entering a Subnet it checks for permissions.
 Checking permissions such as:
 1. Who sent the Packet?
