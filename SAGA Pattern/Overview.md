@@ -9,4 +9,7 @@ Yet, this face an issue with consistency long for all the services that's are ru
 
 ### Distributed Transaction
 
-This allow system to coordinate multiple 
+This allow system to coordinate multiple services while handling failures gracefully. 
+One of the approach called SAGA pattern, provide **Choreography** & **Orchestration**.
+
+###
