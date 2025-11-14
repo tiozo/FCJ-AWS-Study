@@ -5,5 +5,8 @@
 A system that are not placed within a single machine, could be different Server racks with on-premises, cloud or hybrid.
 Provide a strong availability for each services within a microservices system.
 
-Yet, this face an issue with consistency long for all the services that's are running on different spectrum of a system. A traditional database would be 
+Yet, this face an issue with consistency long for all the services that's are running on different spectrum of a system. A traditional database would fall short at this case. So Distributed Transaction step in.
 
+### Distributed Transaction
+
+This allow system to coordinate multiple 
