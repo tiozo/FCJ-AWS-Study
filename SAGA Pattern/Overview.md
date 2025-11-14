@@ -20,3 +20,4 @@ One of the approach called SAGA pattern, provide **Choreography** & **Orchestrat
 
 ### SAGA Pattern
 
+Breaks a complex workflow into multi-step workflow for scheduling a medical procedure.
