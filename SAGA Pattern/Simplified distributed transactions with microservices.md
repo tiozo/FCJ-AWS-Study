@@ -24,4 +24,4 @@ Temporal access this problem via Workflow.
 (A set of predefined business logic using a standard programming language.)
 
 - **Eliminate **Ephemeral****: Temporal workflow's automatically
-- 
+- **Gain visibility into Execution*Temporal  the ;
