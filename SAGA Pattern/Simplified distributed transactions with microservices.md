@@ -28,3 +28,4 @@ Temporal access this problem via Workflow.
 - **Improve Reliability**: Temporal enables automatic retries to address service outages and intermittent failures, with retry policies you can customize to align with business requirements.
 - **Centralize Orchestration Logic**: Temporal Workflows define the overall business logic in one place. This simplifies updates, debugging, and enhances clarity and maintainability.
 
+### Key Components of Temporal Design
