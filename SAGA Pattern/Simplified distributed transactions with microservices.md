@@ -16,3 +16,4 @@ How can you debug a problem that spans multiple services ?
 
 Teams has adopted various strategies to address these problems. 
 - **Stateful Service**: Each service maintains it own database to track state. While this ensures data isn't lost, it introduces multiple state machines that must be managed and synchronized, adding complexity to the system.
+- Event Stores or Messaging Systems: Tools such as Kafka can provide protection against service outages by decoupling the service that produces
