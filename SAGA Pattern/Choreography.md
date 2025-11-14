@@ -7,4 +7,5 @@ Decentralized communication. Each services listen for events and trigger subsequ
 - Flexibility: Adding new services doesn't require changing the workflow services.
 
 #### Challenges
-- Debu
+- Debugging complexity: Each services operate independent
+- Infrastructure setup: Services require a robust mes
