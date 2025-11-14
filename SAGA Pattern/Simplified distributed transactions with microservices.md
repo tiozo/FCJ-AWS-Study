@@ -25,4 +25,5 @@ Temporal access this problem via Workflow.
 
 - **Eliminate **Ephemeral****: Temporal workflow's automatically.
 - **Gain visibility into Execution**: Temporal's Event history record .
-- **Improve Reliability**: Tem
+- **Improve Reliability**: Temporal enables automatic retries to address service outages and intermittent failures, with retry policies you can customize to align with business requirements.
+- 
