@@ -1,6 +1,8 @@
 [Original Links](https://temporal.io/blog/simplifying-distributed-transactions-microservices)
 
-### [[Distributed Systems]]
+### Question for [[Distributed Systems]]
 
 How to ensure reliability amid failures ?
+How can you debug a problem that spans multiple services ?
+
 
