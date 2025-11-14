@@ -18,4 +18,7 @@ Teams has adopted various strategies to address these problems.
 - **Stateful Service**: Each service maintains it own database to track state. While this ensures data isn't lost, it introduces multiple state machines that must be managed and synchronized, adding complexity to the system.
 - Event Stores or Messaging Systems: Tools such as Kafka can provide protection against service outages by decoupling the service that produces a message from the service that consumes it. However, further reduce lack of visibility in the overall system, especially after adding dead letter queues to deal with failures.
 
-### Orchestrating Microservices 
+### Orchestrating Microservices the Durable Way
+
+Temporal access this problem via Workflow.
+A set of predefined 
