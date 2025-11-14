@@ -14,4 +14,5 @@ How can you debug a problem that spans multiple services ?
 
 ### Conventional Approaches and Their Shortcomings
 
-Teams has adopted various strategie
+Teams has adopted various strategies to address these problems. 
+- **Stateful Service**: Each service maintains it own database to track state. While this ensures data isn't lost, it introduces multiple state machines
