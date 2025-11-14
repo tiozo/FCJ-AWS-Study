@@ -2,3 +2,5 @@
 
 ### Distributed system
 
+A system that are not placed within a single machine, could be different Server racks with on-premises, cloud or hybrid
+
