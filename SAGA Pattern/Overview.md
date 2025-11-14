@@ -12,4 +12,6 @@ Yet, this face an issue with consistency long for all the services that's are ru
 This allow system to coordinate multiple services while handling failures gracefully. 
 One of the approach called SAGA pattern, provide **Choreography** & **Orchestration**.
 
-###
+### Challenge of Distributed Transactions
+
+1. **Partial Failure**: One service may fail when other succeed, leaving the system in inconsistent
