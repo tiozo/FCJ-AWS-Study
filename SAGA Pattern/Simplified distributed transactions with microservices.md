@@ -25,4 +25,4 @@ Temporal access this problem via Workflow.
 
 - **Eliminate **Ephemeral****: Temporal workflow's automatically.
 - **Gain visibility into Execution**: Temporal's Event history record .
-- 
+- **Improve Reliability**: Tem
