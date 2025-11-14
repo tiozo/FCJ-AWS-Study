@@ -2,5 +2,8 @@
 
 ### Distributed system
 
-A system that are not placed within a single machine, could be different Server racks with on-premises, cloud or hybrid
+A system that are not placed within a single machine, could be different Server racks with on-premises, cloud or hybrid.
+Provide a strong availability for each services within a microservices system.
+
+Yet, this face an issue with 
 
