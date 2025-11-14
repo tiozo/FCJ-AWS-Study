@@ -7,5 +7,6 @@ Decentralized communication. Each services listen for events and trigger subsequ
 - Flexibility: Adding new services doesn't require changing the workflow services.
 
 #### Challenges
-- Debugging complexity: Each services operate independent
-- Infrastructure setup: Services require a robust mes
+- **Debugging complexity**: Each services operate independent
+- Infrastructure setup: Services require a robust message broker (Kafka, RabbitMQ) to connect all the dots.
+- Event Storms: Poorly designed workflows can overwhelm the system with events.
