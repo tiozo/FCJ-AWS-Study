@@ -14,4 +14,6 @@ One of the approach called SAGA pattern, provide **Choreography** & **Orchestrat
 
 ### Challenge of Distributed Transactions
 
-1. **Partial Failure**: One service may fail when other succeed, leaving the system in inconsistent
+1. **Partial Failure**: One service may fail when other succeed, leaving the system in inconsistent state.
+2. **Data Consistency**: The final state must reflect the intended outcome, regardless of the individual failures.
+3. **Complex wor**
