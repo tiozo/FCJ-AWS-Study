@@ -8,4 +8,5 @@ How can you debug a problem that spans multiple services ?
 
 ### Orchestrating Microservices the Hard Way
 
-- **Ep**
+- **Ephemeral State**: Process may end prematurely due to unexpected failures, leading to incomplete transactions or debugging nightmares.
+- Lack of Vis
