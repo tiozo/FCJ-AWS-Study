@@ -9,4 +9,5 @@ How can you debug a problem that spans multiple services ?
 ### Orchestrating Microservices the Hard Way
 
 - **Ephemeral State**: Process may end prematurely due to unexpected failures, leading to incomplete transactions or debugging nightmares.
-- Lack of Vis
+- **Lack of Visibility**:  State is strewn across multiple services, making it difficult to understand progress and diagnose problems in the application.
+- **Limited Reliability**: Service outages may cause interuptions, offen
