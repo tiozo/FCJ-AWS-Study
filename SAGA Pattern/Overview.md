@@ -23,3 +23,4 @@ One of the approach called SAGA pattern, provide **Choreography** & **Orchestrat
 Breaks a complex workflow into multi-step workflow, each step in the workflow is independent, perform on a specific that can be compensated (undone) if something goes wrong.
 
 #### Approaches
+1. **Choreography**: Each services emits events that other services consume to trigger the next step. It is
