@@ -3,8 +3,8 @@ Decentralized communication. Each services listen for events and trigger subsequ
 
 ### Benefit
 - **Decoupled services**: Each services operates independently
-- Scalability: Event-driven system handle high loads efficiently.
-- Flexibility: Adding new services doesn't require changing the workflow services.
+- **Scalability**: Event-driven system handle high loads efficiently.
+- **Flexibility**: Adding new services doesn't require changing the workflow services.
 
 #### Challenges
 - **Debugging complexity**: Each services operate independent
