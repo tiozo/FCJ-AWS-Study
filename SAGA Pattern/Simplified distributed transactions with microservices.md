@@ -10,4 +10,4 @@ How can you debug a problem that spans multiple services ?
 
 - **Ephemeral State**: Process may end prematurely due to unexpected failures, leading to incomplete transactions or debugging nightmares.
 - **Lack of Visibility**:  State is strewn across multiple services, making it difficult to understand progress and diagnose problems in the application.
-- **Limited Reliability**: Service outages may cause interuptions, offen
+- **Limited Reliability**: Service outages may cause interruptions, often requiring manual intervention and potentially leading to failures in other parts of the system.
