@@ -24,4 +24,4 @@ Breaks a complex workflow into multi-step workflow, each step in the workflow is
 
 #### Approaches
 1. **Choreography**: Each services emits events that other services consume to trigger the next step. It is decentralized and event-driven.
-2. **Orchestration**: A central orchestrator coordinates the sequence of steps and manages 
+2. **Orchestration**: A central orchestrator coordinates the sequence of steps and manages compensations. It is more centralized and easier to reason about.
